@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&lines=Hi%2C+I'm+Mowassir+Noor;System-Level+Builder+%7C+Cybersecurity+Enthusiast;Rust+%2B+Linux+%2B+Low-Level+Engineering" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&lines=Hi%2C+I'm+Mowassir+Noor;System-Level+Builder+%7C+Cybersecurity+Enthusiast;" alt="Typing intro" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B1021,50:101A3A,100:00D9FF&section=footer" alt="wave" />
 
